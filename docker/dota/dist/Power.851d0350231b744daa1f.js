@@ -1,0 +1,1 @@
+(window.webpackJsonpdota=window.webpackJsonpdota||[]).push([[2],{36:function(e,n,a){"use strict";a.r(n);var t=a(0),o=a.n(t);n.default=function(){return o.a.createElement("div",{className:"module1"},"力量英雄列表")}}}]);

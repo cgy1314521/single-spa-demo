@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+/project/dota/node_modules
+/project/lol/node_modules
+/project/node/node_modules
+
+# production
+/dist
+/project/dota/dist
+/project/lol/dist
+

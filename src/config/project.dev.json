@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "@app/dota": "http://localhost:6001/dota-app.js",
+        "@app/lol": "http://localhost:6002/lol-app.js"
+    }
+}

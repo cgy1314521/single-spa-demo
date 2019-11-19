@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "@app/dota": "http://118.31.111.115:7001/dota-app.2ea393544b0b0d149b8a.js",
+        "@app/lol": "http://118.31.111.115:7002/lol-app.29f0e5626a75b0f17a55.js"
+    }
+}
